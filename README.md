@@ -1,7 +1,7 @@
 # CodeForces
 Codeforces is a website that hosts competitive programming contests
 Programming Competitive
-<p><b>This is a google CodeForces problems</b></p>
+<p><b>This is a CodeForces problems</b></p>
 Each problem you can find in:
 https://codeforces.com/problemset
 
